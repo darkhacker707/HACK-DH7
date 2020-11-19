@@ -9,3 +9,6 @@ $ python3 YOU_CAN.pyc
 
 
 Do you want password? Come to Instagram, my account : g.mc.7x
+
+
+Note, the tool is encrypted

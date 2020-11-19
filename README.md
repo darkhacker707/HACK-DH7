@@ -5,4 +5,4 @@ $ cd HACK-DH7
 
 $ python3 YOU_CAN.pyc
 
-*It works on Kali Linux and Parrot OS
+*It works on Kali Linux and Parrot OS*
